@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+## added
+
+env/
+*.pyc
+__pycache__
+fbapp/static/*.jpg
+app.db
+geckodriver.log
+.cache/
+fbapp/
+
